@@ -39,9 +39,9 @@ gem 'jquery-rails'
 # gem 'ruby-debug'
 
 group :development do
-gem 'rspec-rails', '2.0.1'
+gem 'rspec-rails', '2.9.0'
 end
 group :test do
-gem 'rspec', '2.0.1' 
+gem 'rspec', '2.9.0' 
 gem 'webrat', '0.7.1'
 end
